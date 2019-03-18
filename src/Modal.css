@@ -1,0 +1,15 @@
+.modal {
+  width: 50%;
+  margin: 0 auto;
+  border: 3px solid black;
+  padding-bottom: 10px;
+}
+
+.modalText {
+  text-align: center;
+}
+
+.closeButton {
+  margin: 0 auto;
+  display: block;
+}

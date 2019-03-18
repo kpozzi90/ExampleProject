@@ -1,0 +1,11 @@
+.List {
+  margin: 5px auto;
+  text-align: left;
+  width: 20%;
+  border: 1px solid black;
+}
+
+.sortButton {
+  margin: 5px auto;
+  display: block;
+}
